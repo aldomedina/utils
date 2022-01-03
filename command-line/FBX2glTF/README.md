@@ -11,7 +11,7 @@ mv FBX2glTF-darwin-x64 /usr/local/bin/FBX2glTF
 2. Next, set permissions on it so you can run it:
 
 ```
-chmod 755 /user/local/bin/FBX2glTF
+chmod 755 /usr/local/bin/FBX2glTF
 ```
 
 3. Test

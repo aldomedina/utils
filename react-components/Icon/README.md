@@ -1,4 +1,4 @@
-#### Icon component example
+### Icon
 
 Icon component using mask image and currentColor
 

@@ -6,4 +6,4 @@ Command Line
 
 React components
 
-- [Icon](/react-components/icon)
+- [Icon](/react-components/Icon)

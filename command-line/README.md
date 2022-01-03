@@ -1,8 +1,6 @@
-## FBX2glTF
+## FBX2glTF Installation
 
-Installation and use of FBX2glTF in macos
-
-#### installation
+Installation and use of [FBX2glTF](https://github.com/facebookincubator/FBX2glTF) in macOS
 
 1. Move the program into a command directory
 
